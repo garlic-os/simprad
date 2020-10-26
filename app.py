@@ -1,6 +1,3 @@
-# Based on the popular SIMPRAD for TI-BASIC of unknown author.
-# Supports negative numbers and arbitrary roots.
-
 from typing import Tuple, Union
 
 def simprad(radicand: float, root: float=2) -> Tuple[Union[int, complex], float]:
