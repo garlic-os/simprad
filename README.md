@@ -21,9 +21,10 @@ print(simprad(8, 3))  # (2, 1)
 ```
 
 Use simprad as a command line utility:
-```sh
+<!-- Unicode characters don't work in ```code blocks```, so I'm using <pre> instead as a workaround -->
+<pre>
 $ python -m simprad
-Radical to simplify: &#221A;50
+Radical to simplify: &#x221A;50
 Root [2]: 2
-5 &#00D7; &#221A;2
-```
+5 &#x00D7; &#x221A;2
+</pre>

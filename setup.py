@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="simprad-garlic-os",
-    version="1.0.1",
+    version="1.0.2",
     author="garlicOS®",
     author_email="sisdfk@gmail.com",
     description="Simplify radicals.",
